@@ -23,6 +23,7 @@
         </activity>
 
         <service android:name=".MP3Service" />
+        <service android:name=".MyBoundService"/>
     </application>
 
 </manifest>
